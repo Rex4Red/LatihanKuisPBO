@@ -90,4 +90,4 @@ public class FrameDetailPenyewaan extends JFrame {
         }
     }
 }
-p
+
